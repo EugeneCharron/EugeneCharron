@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Eugene
-
-<img src="https://thumbs.gfycat.com/FlickeringFluidKouprey-mobile.mp4" width="140">
-
+<iframe src='https://gfycat.com/ifr/FlickeringFluidKouprey' frameborder='0' scrolling='no' allowfullscreen width='640' height='844'>
+  
 - 🔭 I’m currently working on completing my bachelors degree in Computer Science at Florida International University.
 - 🌱 I’m currently learning full stack development using the MERN stack while studying algorithms in Python.
 - 👔 Experience as an intern working with React at a Miami based IoT startup called Boatrax.
