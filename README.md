@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Eugene
-<img src='https://i.imgur.com/wMh32Pc.gif' width='100'>
+<img src='https://i.imgur.com/wMh32Pc.gif' width='200'>
   
 - 🔭 I’m currently working on completing my bachelors degree in Computer Science at Florida International University.
 - 🌱 I’m currently learning full stack development using the MERN stack while studying algorithms in Python.
