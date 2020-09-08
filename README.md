@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **EugeneCharron/EugeneCharron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
@@ -13,4 +13,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
