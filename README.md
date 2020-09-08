@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Eugene
-<iframe src='https://gfycat.com/ifr/FlickeringFluidKouprey' frameborder='0' scrolling='no' allowfullscreen width='640' height='844'>
+<img src='https://gfycat.com/ifr/FlickeringFluidKouprey' width='100'>
   
 - 🔭 I’m currently working on completing my bachelors degree in Computer Science at Florida International University.
 - 🌱 I’m currently learning full stack development using the MERN stack while studying algorithms in Python.
