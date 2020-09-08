@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on completing my bachelors degree in Computer Science at Florida International University.
 - 🌱 I’m currently learning full stack development using the MERN stack while studying algorithms in Python.
 - 👔 Experience as an intern working with React at a Miami based IoT startup called Boatrax.
-- 📫 How to reach me: Email - eugenecharron@gmail.com LinkedIn - linkedin.com/in/eugenecharron
+- 📫 How to reach me: eugenecharron@gmail.com / <a href="https://www.linkedin.com/in/eugenecharron/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 Languages and Tools:
 <p align="left">
